@@ -1,5 +1,8 @@
 # onamonam
 
+[![Build Status](https://travis-ci.org/92bondstreet/onamonam.svg?branch=master)](https://travis-ci.org/92bondstreet/onamonam)
+[![Coverage Status](https://coveralls.io/repos/github/92bondstreet/onamonam/badge.svg?branch=master)](https://coveralls.io/github/92bondstreet/onamonam?branch=master)
+
 > Find number of words occurrence from a text
 
 ## Installation

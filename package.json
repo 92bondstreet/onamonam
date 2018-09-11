@@ -7,9 +7,11 @@
   "author": "Yassine <yassine.azzout@gmail.com>",
   "license": "Uncopyrighted",
   "scripts": {
+    "coveralls": "jest --coverage && cat ./coverage/lcov.info | coveralls",
     "test": "jest"
   },
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "eslint-plugin-jest": "^21.22.0",
     "jest": "^23.6.0"
   },
@@ -27,5 +29,4 @@
       }
     }
   }
-
 }

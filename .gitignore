@@ -186,10 +186,3 @@ coverage
 .nyc_output
 *.html
 *.cookies
-
-### AUTOBOTS ###
-ecosystem
-profiles.json
-accounts.json
-*.yml
-*.cli
