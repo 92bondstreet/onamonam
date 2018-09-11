@@ -12,5 +12,20 @@
   "devDependencies": {
     "eslint-plugin-jest": "^21.22.0",
     "jest": "^23.6.0"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "*.js",
+      "!sandbox.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 80,
+        "functions": 80,
+        "lines": 80,
+        "statements": 80
+      }
+    }
   }
+
 }
