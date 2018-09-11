@@ -1,0 +1,12 @@
+{
+  "name": "onamonam",
+  "version": "0.0.1",
+  "description": "number of words occurrence from a text",
+  "main": "index.js",
+  "repository": "https://github.com/92bondstreet/onamonam",
+  "author": "Yassine <yassine.azzout@gmail.com>",
+  "license": "Uncopyrighted",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
