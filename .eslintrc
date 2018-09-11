@@ -10,6 +10,7 @@
       "impliedStrict": true
     }
   },
+  "plugins": ["jest"],
   "rules": {
     // disallow or enforce trailing commas
     "comma-dangle": [2, "never"],

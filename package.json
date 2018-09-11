@@ -6,7 +6,11 @@
   "repository": "https://github.com/92bondstreet/onamonam",
   "author": "Yassine <yassine.azzout@gmail.com>",
   "license": "Uncopyrighted",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
+    "eslint-plugin-jest": "^21.22.0",
     "jest": "^23.6.0"
   }
 }
