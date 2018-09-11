@@ -24,7 +24,7 @@ console.log(occurrences);
 
 ### onamonam(text)
 
-Return `Object containing occurrence by word
+Return `Object` containing occurrence by word
 
 #### text
 
