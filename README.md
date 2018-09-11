@@ -30,6 +30,9 @@ Return `Object` containing occurrence by word
 
 Type: String
 
+## MDD (Moleskine Driven Development)
+
+![mdd](./mdd.png)
 
 ## Licence
 
